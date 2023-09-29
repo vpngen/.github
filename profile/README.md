@@ -4,4 +4,4 @@ VPN Generator is a humanitarian project dedicated to ensuring free internet acce
 
 ## How Can You Use This Repo
 
-This repository contains the code and resources needed to launch your own network of private VPN servers or contribute to the project's development. To get started:
+This repository contains the code and resources needed to launch your own network of private VPN servers or contribute to the project's development. Supported protocols are WireGuard, OpenVPN over Cloak and Outline's version of ShadowSocks 
