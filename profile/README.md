@@ -1,12 +1,7 @@
-## Hi there 👋
+# What is VPN Generator
 
-<!--
+VPN Generator is a humanitarian project dedicated to ensuring free internet access for people in oppressed countries. We provide automatically generated independent VPN services designed for small groups (up to 250 people). Our decentralized approach effectively counters centralized government censorship.
 
-**Here are some ideas to get you started:**
+## How Can You Use This Repo
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This repository contains the code and resources needed to launch your own network of private VPN servers or contribute to the project's development. To get started:
